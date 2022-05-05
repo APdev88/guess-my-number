@@ -1,10 +1,8 @@
 <h1 align="center">Guess My Number</h1>
 
-<p align="center">
+<h3 align="center">
 This is a demo game implemented using HTML, CSS, JAVASCRIPT
-</p>
-
-<hr>
+</h3>
 
 <p align="center">
   You have to guess a number between 1 to 20 <br />
