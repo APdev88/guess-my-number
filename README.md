@@ -1,4 +1,4 @@
-# Guess My Number
+<h1 align="center">Guess My Number</h1>
 
 This is a demo game implemented using HTML, CSS, JAVASCRIPT
 
