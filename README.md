@@ -13,3 +13,11 @@ This is a demo game implemented using HTML, CSS, JAVASCRIPT
 </p>
 
 <img src="video/guess-video.gif" alt="Demo of Guess My Number">
+
+<p align="center">
+<a href="https://alessiopisanoweb.github.io/guess-my-number/">View Demo</a>
+·
+<a href="https://github.com/alessiopisanoweb/guess-my-number/issues/new">Report Bug</a>
+·
+<a href="https://github.com/alessiopisanoweb/guess-my-number/issues/new">Request Feature</a>
+</p>
