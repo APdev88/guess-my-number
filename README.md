@@ -4,6 +4,8 @@
 This is a demo game implemented using HTML, CSS, JAVASCRIPT
 </p>
 
+<hr>
+
 <p align="center">
   You have to guess a number between 1 to 20 <br />
   ↓ <br />
