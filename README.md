@@ -15,9 +15,9 @@ This is a demo game implemented using HTML, CSS, JAVASCRIPT
 <img src="video/guess-video.gif" alt="Demo of Guess My Number">
 
 <p align="center">
-<a href="https://guess-my-number-ap-dev.netlify.app/" target="_blank">View Demo</a>
+<a href="https://guess-my-number-ap-dev.netlify.app/">View Demo</a>
 ·
-<a href="https://github.com/alessiopisanoweb/guess-my-number/issues/new" target="_blank">Report Bug</a>
+<a href="https://github.com/alessiopisanoweb/guess-my-number/issues/new">Report Bug</a>
 ·
-<a href="https://github.com/alessiopisanoweb/guess-my-number/issues/new" target="_blank">Request Feature</a>
+<a href="https://github.com/alessiopisanoweb/guess-my-number/issues/new">Request Feature</a>
 </p>
